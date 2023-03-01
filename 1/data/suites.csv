@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 01 12:44:41 GMT 2023","Wed Mar 01 12:44:41 GMT 2023","1","","com.codecool.simplecalculator.SimpleCalculatorTest","","com.codecool.simplecalculator.SimpleCalculatorTest","testCalcDivision","testCalcDivision()",""
+"passed","Wed Mar 01 12:44:41 GMT 2023","Wed Mar 01 12:44:41 GMT 2023","4","","com.codecool.simplecalculator.SimpleCalculatorTest","","com.codecool.simplecalculator.SimpleCalculatorTest","testIsValidOperatorValid","testIsValidOperatorValid()",""
+"passed","Wed Mar 01 12:44:41 GMT 2023","Wed Mar 01 12:44:41 GMT 2023","1","","com.codecool.simplecalculator.SimpleCalculatorTest","","com.codecool.simplecalculator.SimpleCalculatorTest","testCalcMultiply","testCalcMultiply()",""
+"passed","Wed Mar 01 12:44:40 GMT 2023","Wed Mar 01 12:44:41 GMT 2023","16","","com.codecool.simplecalculator.SimpleCalculatorTest","","com.codecool.simplecalculator.SimpleCalculatorTest","testIsNumberNotValid","testIsNumberNotValid()",""
+"passed","Wed Mar 01 12:44:41 GMT 2023","Wed Mar 01 12:44:41 GMT 2023","0","","com.codecool.simplecalculator.SimpleCalculatorTest","","com.codecool.simplecalculator.SimpleCalculatorTest","testCalcMinus","testCalcMinus()",""
+"passed","Wed Mar 01 12:44:41 GMT 2023","Wed Mar 01 12:44:41 GMT 2023","1","","com.codecool.simplecalculator.SimpleCalculatorTest","","com.codecool.simplecalculator.SimpleCalculatorTest","testCalcPlus","testCalcPlus()",""
+"passed","Wed Mar 01 12:44:41 GMT 2023","Wed Mar 01 12:44:41 GMT 2023","0","","com.codecool.simplecalculator.SimpleCalculatorTest","","com.codecool.simplecalculator.SimpleCalculatorTest","testIsNumberValid","testIsNumberValid()",""
