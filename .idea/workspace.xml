@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="605a14cd-138e-40a0-a194-c63ff333077f" name="Changes" comment="" />
+    <list default="true" id="605a14cd-138e-40a0-a194-c63ff333077f" name="Changes" comment="Starter code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/codecool/simplecalculator/SimpleCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codecool/simplecalculator/SimpleCalculatorTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MPf9SD10HAyvUeyEgkY3er2Jws" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +28,100 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.SimpleCalculatorTest">
+    <configuration name="SimpleCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="working-github-workflow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.simplecalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.simplecalculator" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.simplecalculator.SimpleCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest.testCalcDivision" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="working-github-workflow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.simplecalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.simplecalculator" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.simplecalculator.SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="testCalcDivision" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest.testCalcMinus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="working-github-workflow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.simplecalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.simplecalculator" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.simplecalculator.SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="testCalcMinus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest.testCalcMultiply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="working-github-workflow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.simplecalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.simplecalculator" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.simplecalculator.SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="testCalcMultiply" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest.testCalcPlus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="working-github-workflow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.simplecalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.simplecalculator" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.simplecalculator.SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="testCalcPlus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimpleCalculatorTest" />
+        <item itemvalue="JUnit.SimpleCalculatorTest.testCalcDivision" />
+        <item itemvalue="JUnit.SimpleCalculatorTest.testCalcMultiply" />
+        <item itemvalue="JUnit.SimpleCalculatorTest.testCalcMinus" />
+        <item itemvalue="JUnit.SimpleCalculatorTest.testCalcPlus" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +131,29 @@
       <option name="presentableId" value="Default" />
       <updated>1677673989909</updated>
     </task>
+    <task id="LOCAL-00001" summary="Starter code">
+      <created>1677674189381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677674189381</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Starter code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starter code" />
   </component>
 </project>
